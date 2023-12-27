@@ -1,1 +1,2 @@
-# Database-Management
+# Database Management
+Database Management includes enhancing database performance through schema improvements (including indexing) and query optimization, managing security and user access control, handling transactions, and data recovery in the event of disruptions. The course also covers database programming using functions and stored procedures within the database, maintaining database integrity through constraints, assertions, and triggers, as well as managing distributed databases.
